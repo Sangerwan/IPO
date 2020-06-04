@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ \ An\ Item\ is\ an\ object\ usable\ in\ the\ game.\r\n\ \ Effect\ may\ vary\ between\ each\ Items.\r\n\r\n\ @author\ Erwan\ SANGCHANMAHOLA\r\n\ @version\ 0.2\r\n
+comment1.params=pN\ pD\ pW
+comment1.target=Item(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Create\ Item\ with\ name,\ description\ and\ weight\r\n\ @param\ pN\ Item's\ Name.\r\n\ @param\ pD\ Item's\ Description.\r\n\ @param\ pW\ Item's\ Weight.\r\n
+comment2.params=
+comment2.target=int\ getWeight()
+comment2.text=\r\n\ @return\ The\ Item's\ weight.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ @return\ The\ Item's\ Description.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ @return\ The\ Item's\ Name.\r\n
+comment5.params=pD
+comment5.target=void\ setItemDescription(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ @return\ String\ with\ the\ Name,\ Description,\ Weight\ of\ the\ Item.\r\n
+numComments=7

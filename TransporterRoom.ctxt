@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TransporterRoom
+comment0.text=\n\ D\u00E9crivez\ votre\ classe\ TransporterRoom\ ici.\n\n\ @author\ (votre\ nom)\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\n
+comment1.params=pDescription\ pImage
+comment1.target=TransporterRoom(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructeur\ d'objets\ de\ classe\ TransporterRoom\n
+comment2.params=pDirection
+comment2.target=Room\ getExit(java.lang.String)
+comment2.text=\n\ Return\ the\ room\ that\ is\ reached\ if\ we\ go\ from\ this\ room\ in\ direction\n\ "direction".\ If\ there\ is\ no\ room\ in\ that\ direction,\ return\ null.\n
+comment3.params=pListRoom
+comment3.target=void\ setRoomList(java.util.List)
+comment4.params=
+comment4.target=Room\ getRandomRoom()
+numComments=5

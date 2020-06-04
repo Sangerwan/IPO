@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ \ To\ play\ this\ game,\ create\ an\ instance\ of\ this\ class.\n\ \n\ \ This\ main\ class\ creates\ the\ necessary\ implementation\ objects\ and\ starts\ the\ game\ off.\n\ \ \n\ @author\ Erwan\ SANGCHANMAHOLA\n\ @version\ 0.2\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\n\ Create\ the\ game\ and\ initialise\ its\ internal\ map.\n
+numComments=2

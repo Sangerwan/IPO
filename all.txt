@@ -1,0 +1,25 @@
+help
+look
+take .
+help 
+items
+unlock
+go north
+go west
+go north
+take champignon
+help
+items
+eat champignon
+help
+items
+go north
+go north
+go east
+go north
+go north
+go north
+take rock
+go teleporter
+unlock
+go up

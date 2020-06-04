@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CommandWord
+comment0.text=\n\ Representations\ for\ all\ the\ valid\ command\ words\ for\ the\ game.\n\ \n\ @author\ Erwan\ SANGCHANMAHOLA\n\ @version\ 0.2\n
+comment1.params=pCommandString
+comment1.target=CommandWord(java.lang.String)
+comment1.text=\n\ Initialise\ with\ the\ corresponding\ command\ word.\n\ @param\ commandWord\ The\ command\ string.\n
+comment2.params=
+comment2.target=Command\ getCommand()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ @return\ The\ command\ word\ as\ a\ string.\n
+comment4.params=
+comment4.target=boolean\ isCommand()
+comment4.text=\n\ Verifie\ si\ une\ String\ donnee\ fait\ partie\ des\ commandes\ valides.\ \n\ @param\ pString\ la\ String\ a\ tester\n\ @return\ true\ si\ pString\ est\ une\ comande\ valide,\ false\ sinon\n
+numComments=5

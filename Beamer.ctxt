@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\n\ D\u00E9crivez\ votre\ classe\ Beamer\ ici.\n\n\ @author\ (votre\ nom)\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\n
+comment1.params=pN\ pD\ pW
+comment1.target=Beamer(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructeur\ d'objets\ de\ classe\ Beamer\n
+comment2.params=
+comment2.target=java.lang.String\ state()
+comment3.params=
+comment3.target=boolean\ isCharged()
+comment4.params=pRoom
+comment4.target=void\ charge(Room)
+comment5.params=
+comment5.target=Room\ use()
+numComments=6

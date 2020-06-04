@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\n\ This\ parser\ takes\ user\ input\ and\ tries\ to\ interpret\ it\ as\ a\ "Zuul"\n\ command.\ Every\ time\ it\ is\ called\ it\ takes\ a\ line\ as\ a\ String\ and\n\ tries\ to\ interpret\ the\ line\ as\ a\ two\ word\ command.\ It\ returns\ the\ command\n\ as\ an\ object\ of\ class\ Command.\n\n\ The\ parser\ has\ a\ set\ of\ known\ command\ words.\ It\ checks\ user\ input\ against\n\ the\ known\ commands,\ and\ if\ the\ input\ is\ not\ one\ of\ the\ known\ commands,\ it\n\ returns\ a\ command\ object\ that\ is\ marked\ as\ an\ unknown\ command.\n\ \ \n\ @author\ Erwan\ SANGCHANMAHOLA\n\ @version\ 0.2\n
+comment1.params=
+comment1.target=Parser()
+comment1.text=\n\ Create\ a\ new\ Parser.\n
+comment2.params=pInputLine
+comment2.target=Command\ getCommand(java.lang.String)
+comment2.text=\n\ Get\ a\ new\ command\ from\ the\ user.\ The\ command\ is\ read\ by\n\ parsing\ the\ 'inputLine'.\n
+comment3.params=
+comment3.target=java.lang.String\ showCommands()
+comment3.text=\n\ Returns\ a\ String\ with\ valid\ command\ words.\n
+numComments=4

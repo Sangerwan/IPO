@@ -1,0 +1,9 @@
+go north
+go north
+go north
+go north
+go north
+go north
+go north
+go teleporter
+go up
